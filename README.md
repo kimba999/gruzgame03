@@ -1,4 +1,4 @@
-# Betches Tapper. 1 2
+# Betches Tapper. 1 2 3
 
 Urban mini game for Base App:
 - tap the heroine to gain score,
